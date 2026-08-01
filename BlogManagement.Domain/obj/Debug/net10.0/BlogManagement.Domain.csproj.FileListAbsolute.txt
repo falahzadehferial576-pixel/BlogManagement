@@ -1,0 +1,11 @@
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManagement.Domain\bin\Debug\net10.0\BlogManagement.Domain.deps.json
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManagement.Domain\bin\Debug\net10.0\BlogManagement.Domain.dll
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManagement.Domain\bin\Debug\net10.0\BlogManagement.Domain.pdb
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManagement.Domain\obj\Debug\net10.0\BlogManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManagement.Domain\obj\Debug\net10.0\BlogManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManagement.Domain\obj\Debug\net10.0\BlogManagement.Domain.AssemblyInfo.cs
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManagement.Domain\obj\Debug\net10.0\BlogManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManagement.Domain\obj\Debug\net10.0\BlogManagement.Domain.dll
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManagement.Domain\obj\Debug\net10.0\refint\BlogManagement.Domain.dll
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManagement.Domain\obj\Debug\net10.0\BlogManagement.Domain.pdb
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManagement.Domain\obj\Debug\net10.0\ref\BlogManagement.Domain.dll

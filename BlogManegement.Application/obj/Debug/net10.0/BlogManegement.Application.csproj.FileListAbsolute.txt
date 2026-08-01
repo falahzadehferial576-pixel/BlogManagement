@@ -1,0 +1,15 @@
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\bin\Debug\net10.0\BlogManegement.Application.deps.json
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\bin\Debug\net10.0\BlogManegement.Application.dll
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\bin\Debug\net10.0\BlogManegement.Application.pdb
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\bin\Debug\net10.0\BlogManagement.Domain.dll
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\bin\Debug\net10.0\BlogManagement.Domain.pdb
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\obj\Debug\net10.0\BlogManegement.Application.csproj.AssemblyReference.cache
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\obj\Debug\net10.0\BlogManegement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\obj\Debug\net10.0\BlogManegement.Application.AssemblyInfoInputs.cache
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\obj\Debug\net10.0\BlogManegement.Application.AssemblyInfo.cs
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\obj\Debug\net10.0\BlogManegement.Application.csproj.CoreCompileInputs.cache
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\obj\Debug\net10.0\BlogMane.E947C72D.Up2Date
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\obj\Debug\net10.0\BlogManegement.Application.dll
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\obj\Debug\net10.0\refint\BlogManegement.Application.dll
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\obj\Debug\net10.0\BlogManegement.Application.pdb
+C:\Users\shiva\Desktop\consol\BlogManagement\BlogManagement\BlogManegement.Application\obj\Debug\net10.0\ref\BlogManegement.Application.dll

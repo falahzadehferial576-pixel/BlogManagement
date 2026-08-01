@@ -1,0 +1,73 @@
+﻿@model List<BlogManagement.Application.DTOs.Article.ArticleDto>
+
+@{
+    ViewData["Title"] = "مدیریت مقالات";
+}
+
+<h2>مدیریت مقالات</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">
+        افزودن مقاله
+    </a>
+</p>
+
+<table class="table table-bordered table-striped">
+
+    <thead>
+        <tr>
+            <th>تصویر</th>
+            <th>عنوان</th>
+            <th>دسته بندی</th>
+            <th>عملیات</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+
+                    @if (!string.IsNullOrEmpty(item.ImageName))
+                    {
+                        <img src="/uploads/articles/@item.ImageName"
+                             width="80"
+                             height="60" />
+                    }
+                </td>
+
+                <td>@item.Title</td>
+
+                <td>@item.CategoryTitle</td>
+
+                <td>
+
+                    <a asp-action="Edit"
+                       asp-route-id="@item.Id"
+                       class="btn btn-warning btn-sm">
+                        ویرایش
+                    </a>
+
+                    <form asp-action="Delete"
+                          asp-route-id="@item.Id"
+                          method="post"
+                          style="display:inline">
+
+                        <button class="btn btn-danger btn-sm"
+                                onclick="return confirm('آیا مطمئن هستید؟')">
+                            حذف
+                        </button>
+
+                    </form>
+
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>

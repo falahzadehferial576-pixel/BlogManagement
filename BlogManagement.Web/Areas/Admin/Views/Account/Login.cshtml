@@ -1,0 +1,39 @@
+﻿@model BlogManagement.Application.DTOs.Admin.LoginDto
+
+@{
+    ViewData["Title"] = "ورود مدیر";
+}
+
+<h2>ورود مدیر</h2>
+
+<form asp-action="Login" method="post">
+
+    <div class="mb-3">
+        <label>نام کاربری</label>
+        <input asp-for="UserName" class="form-control" />
+        <span asp-validation-for="UserName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>رمز عبور</label>
+        <input asp-for="Password" type="password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <div class="form-check mb-3">
+        <input asp-for="RememberMe" class="form-check-input" />
+        <label asp-for="RememberMe" class="form-check-label">
+            مرا به خاطر بسپار
+        </label>
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        ورود
+    </button>
+
+    <div class="text-danger mt-2">
+        @Html.ValidationSummary()
+    
+    </div>
+
+</form>
